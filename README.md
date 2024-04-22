@@ -4,6 +4,7 @@ Automate bash script consisting tools for guessing or collecting email addresses
 - https://github.com/Josue87/EmailFinder
 - https://github.com/maldevel/EmailHarvester
 - python3
+- add intelx apikey on intelxEmail.py
 
 ## Usage
 ```bash
